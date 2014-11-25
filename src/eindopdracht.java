@@ -32,8 +32,3 @@ import javax.swing.*;
  		}
  	}
  }
- 
- 			
- 
- 		
- 	
